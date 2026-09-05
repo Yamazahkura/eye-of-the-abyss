@@ -44,7 +44,7 @@ h1 {
 }
 
 .notice {
-    background: rgba(255,255,255,.35);
+    background: red;
 
     padding: 20px;
 
